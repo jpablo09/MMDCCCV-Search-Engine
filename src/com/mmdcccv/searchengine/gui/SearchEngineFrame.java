@@ -9,7 +9,7 @@ public class SearchEngineFrame implements GuiConstants
 {
 
    //Constants
-
+   //test change
    private final String FRAME_TITLE = "MMDCCCV Search Engine";
    private final Dimension FRAME_DIM = new Dimension(800, 600);
    //Fields
