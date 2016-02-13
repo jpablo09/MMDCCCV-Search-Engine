@@ -33,7 +33,7 @@ public class SearchEngineFrame implements GuiConstants
       frame.setTitle(FRAME_TITLE);
       frame.setSize(FRAME_DIM);
       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-      searchTablePane = new JScrollPane(new SearchTable());
+      searchTablePane = new SearchTable();
       frame.setContentPane(searchTablePane);
       scrollPaneLayout = new ScrollPaneLayout();
       frame.setLayout(scrollPaneLayout);
