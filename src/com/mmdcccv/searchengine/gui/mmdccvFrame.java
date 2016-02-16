@@ -57,17 +57,6 @@ public class mmdccvFrame extends JFrame {
         
     }
     
-    /*public void searchPanel(){
-        
-        mmdccvFrame frame = new mmdccvFrame();
-        
-        frame.setTitle("MMDCCV SEARCH ENGINE");
-        frame.setSize(450,300);
-        frame.setLocationRelativeTo(null);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
-        
-        
-    }*/
+
     
 }
