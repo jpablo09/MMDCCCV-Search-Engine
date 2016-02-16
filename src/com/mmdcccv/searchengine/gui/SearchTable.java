@@ -6,6 +6,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
+
 // Will serve as table to hold list of indexed files in a table with their
 // File URLs listed as well
 public class SearchTable extends JScrollPane implements GuiConstants
@@ -53,6 +54,7 @@ public class SearchTable extends JScrollPane implements GuiConstants
       initializePanel();
       initSearchTable();
       addToPanel();
+      
    }
 
    // constructor helper method submethod
